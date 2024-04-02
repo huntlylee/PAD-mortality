@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository was created to share the source code and validated models reported in the following publication:
+This repository was created to share the source code and the validated models reported in the following publication:
 
 Zhang D, Li Y, Kalbaugh CA, Shi L, Divers J, Islam S, Annex BH. Machine Learning Approach to Predict In-Hospital Mortality in Patients Admitted for Peripheral Artery Disease in the United States. J Am Heart Assoc. 2022 Oct 18;11(20):e026987. doi: 10.1161/JAHA.122.026987. Epub 2022 Oct 10. PMID: 36216437; PMCID: PMC9673668.
 
